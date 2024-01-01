@@ -1,0 +1,65 @@
++-----------------+          +---------------------+
+|   Propriedade   |          |  Culturas/Plantios  |
++-----------------+          +---------------------+
+| ID (PK)         |1        N| ID (PK)             |
+| Nome            |----------| Tipo                |
+| Área            |          | Quantidade Plantada |
+| Localização     |          | Data de Plantio     |
+| Endereço        |          | Data de Colheita    |
+| Contato Prop.   |          | Propriedade (FK)    |
++-----------------+          +---------------------+
+        |
+        |
++-------v--------+
+|    Animais    |
++---------------+
+| ID (PK)       |
+| Tipo          |
+| Quantidade    |
+| Saúde         |
+| Propriedade   |
++---------------+
+        |
+        |
++-------v--------+
+|  Manutenções  |
++---------------+
+| ID (PK)       |
+| Tipo          |
+| Descrição     |
+| Data          |
+| Custo         |
+| Propriedade   |
++---------------+
+        |
+        |
++-------v--------+
+|  Despesas/Rec.|
++---------------+
+| ID (PK)       |
+| Tipo          |
+| Descrição     |
+| Valor         |
+| Data          |
+| Propriedade   |
++---------------+
+        |
+        |
++-------v--------+
+|   Usuários    |
++---------------+
+| ID (PK)       |
+| Nome          |
+| E-mail        |
+| Senha         |
++---------------+
+        |
+        |
++-------v--------+
+|  Logs Ativ.   |
++---------------+
+| ID (PK)       |
+| Descrição     |
+| Data/Hora     |
+| Usuário (FK)  |
++---------------+
