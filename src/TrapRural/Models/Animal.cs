@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using TrapRural.Enums;
 
 namespace TrapRural.Models
 {
@@ -13,6 +10,6 @@ namespace TrapRural.Models
         public Saude SaudeAnimal {get;set;}
 
         public string PropriedadeId{get;set;}
-        public virtual Propriedade Propriedade{get;set;} 
+        public virtual PropriedadeModel Propriedade{get;set;} 
     }
 }

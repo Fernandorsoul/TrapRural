@@ -1,3 +1,5 @@
+using TrapRural.Enums;
+
 namespace TrapRural.Models
 {
     public class Cultura
@@ -9,6 +11,6 @@ namespace TrapRural.Models
         public DateTime DataColheita{get;set;}
         
         public string  PropriedadeId{get;set;}
-        public virtual Propriedade Propriedade {get;set;}
+        public virtual PropriedadeModel Propriedade {get;set;}
     }
 }

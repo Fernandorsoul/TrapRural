@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace TrapRural.Enums
 {
-    public class Tipo
+    public enum Tipo
     {
         Receita=0,
-        Despesa=1
+        Despesa=1,
     }
 }

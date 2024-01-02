@@ -14,6 +14,6 @@ namespace TrapRural.Models
         public double Custo{get;set;}
 
         public string PropriedadeId{get;set;}
-        public virtual Propriedade Propriedade{get;set;}
+        public virtual PropriedadeModel Propriedade{get;set;}
     }
 }
