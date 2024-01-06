@@ -1,0 +1,8 @@
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.AssemblyInfoInputs.cache
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.AssemblyInfo.cs
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.csproj.CoreCompileInputs.cache
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.RazorAssemblyInfo.cache
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.RazorAssemblyInfo.cs
+D:\Nova pasta\TrapRural\src\TrapRural\obj\Debug\net8.0\TrapRural.sourcelink.json
